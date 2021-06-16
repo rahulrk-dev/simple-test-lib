@@ -1,1 +1,1 @@
-# simple-js-test-lib
+# simple-test-lib
